@@ -1,0 +1,6 @@
+Multiline file
+to commit
+and PR for the comment bug I discovered
+wow code
+much comment
+Lorem ipsum
